@@ -28,6 +28,9 @@
 		E4DB798218B1F8A40017447A /* GeneProcess */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GeneProcess; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DB798518B1F8A40017447A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		E4DB798718B1F8A40017447A /* GeneProcess.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = GeneProcess.1; sourceTree = "<group>"; };
+		E4DB799118B1F9A30017447A /* gene_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gene_21.txt; sourceTree = "<group>"; };
+		E4DB799218B1F9A30017447A /* gene_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gene_22.txt; sourceTree = "<group>"; };
+		E4DB799318B1F9A30017447A /* gene_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gene_25.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +47,7 @@
 		E4DB797918B1F8A40017447A = {
 			isa = PBXGroup;
 			children = (
+				E4DB799018B1F9A30017447A /* data */,
 				E4DB798418B1F8A40017447A /* GeneProcess */,
 				E4DB798318B1F8A40017447A /* Products */,
 			);
@@ -64,6 +68,16 @@
 				E4DB798718B1F8A40017447A /* GeneProcess.1 */,
 			);
 			path = GeneProcess;
+			sourceTree = "<group>";
+		};
+		E4DB799018B1F9A30017447A /* data */ = {
+			isa = PBXGroup;
+			children = (
+				E4DB799118B1F9A30017447A /* gene_21.txt */,
+				E4DB799218B1F9A30017447A /* gene_22.txt */,
+				E4DB799318B1F9A30017447A /* gene_25.txt */,
+			);
+			path = data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
