@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12E49E90-FE6B-4193-84CC-2A464E4BE19A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GeneProcess</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BBC1F269-FC39-4904-93EE-CE75FFB626A5</key>
+		<string>https://github.com/MrDefinite/GeneProcess.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GeneProcess.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BBC1F269-FC39-4904-93EE-CE75FFB626A5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MrDefinite/GeneProcess.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BBC1F269-FC39-4904-93EE-CE75FFB626A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBC1F269-FC39-4904-93EE-CE75FFB626A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GeneProcess</string>
+		</dict>
+	</array>
+</dict>
+</plist>
