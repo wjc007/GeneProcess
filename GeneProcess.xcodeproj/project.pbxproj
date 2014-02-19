@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E497BBD718B5036400EFF983 /* overlap.c in Sources */ = {isa = PBXBuildFile; fileRef = E497BBD618B5036400EFF983 /* overlap.c */; };
 		E4BB2C6E18B4FF5C00D7AA22 /* common.c in Sources */ = {isa = PBXBuildFile; fileRef = E4BB2C6D18B4FF5C00D7AA22 /* common.c */; };
 		E4BB2C7018B5004800D7AA22 /* filter.c in Sources */ = {isa = PBXBuildFile; fileRef = E4BB2C6F18B5004800D7AA22 /* filter.c */; };
 		E4DB798618B1F8A40017447A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = E4DB798518B1F8A40017447A /* main.c */; };
@@ -27,6 +28,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E497BBD518B5035600EFF983 /* overlap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = overlap.h; sourceTree = "<group>"; };
+		E497BBD618B5036400EFF983 /* overlap.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = overlap.c; sourceTree = "<group>"; };
 		E4BB2C6B18B4FEE200D7AA22 /* filter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = filter.h; sourceTree = "<group>"; };
 		E4BB2C6C18B4FF3A00D7AA22 /* common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
 		E4BB2C6D18B4FF5C00D7AA22 /* common.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = common.c; sourceTree = "<group>"; };
@@ -76,6 +79,8 @@
 				E4BB2C6C18B4FF3A00D7AA22 /* common.h */,
 				E4BB2C6D18B4FF5C00D7AA22 /* common.c */,
 				E4BB2C6F18B5004800D7AA22 /* filter.c */,
+				E497BBD518B5035600EFF983 /* overlap.h */,
+				E497BBD618B5036400EFF983 /* overlap.c */,
 			);
 			path = GeneProcess;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 				E4BB2C6E18B4FF5C00D7AA22 /* common.c in Sources */,
 				E4BB2C7018B5004800D7AA22 /* filter.c in Sources */,
 				E4DB798618B1F8A40017447A /* main.c in Sources */,
+				E497BBD718B5036400EFF983 /* overlap.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
